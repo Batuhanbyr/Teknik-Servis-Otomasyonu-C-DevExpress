@@ -18,9 +18,6 @@ Proje dosyalarınızı indirdikten sonra, Visual Studio IDE'sini kullanarak proj
 ## Katkıda Bulunma
 Bu proje açık kaynaklı bir projedir ve her türlü katkıda bulunmaya açıktır. Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir "pull request" gönderin.
 
-## Lisans
-Bu proje, MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için, "LICENSE" dosyasına göz atabilirsiniz.
-
 # İletişim
 Proje ile ilgili her türlü soru, öneri ve görüşlerinizi paylaşmak için, lütfen bu repository'nin issues kısmını kullanabilirsiniz.
 
